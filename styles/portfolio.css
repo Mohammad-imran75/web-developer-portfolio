@@ -137,3 +137,28 @@ nav li {
     font-weight: 700px;
     color: #474747;
 }
+.resume-container , hr{
+    display: flex;
+    gap: 50px;
+    margin: 30px;
+}
+.resume-item-description , .resume-item-institute{
+    color: #757575;
+}
+.resume-item-title{
+    font-size: 25px;
+    color: #474747;
+    font-weight: 700px;
+    margin-bottom: 10px;
+}
+.resume-item-institute {
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: 20px;
+    margin-top: opx;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
