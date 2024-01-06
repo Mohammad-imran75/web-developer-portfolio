@@ -109,4 +109,10 @@ nav li {
 }
 .about-info{
     text-align: center;
+    font-size: 20px;
+    font-weight: 30px;
+    color: #757575;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
